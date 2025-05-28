@@ -1,0 +1,2 @@
+[2025-05-28T12:52:30.021Z] [INFO]: Test started: /playwright/e2e/Films_Rating/observeTop250.spec.ts
+[2025-05-28T12:52:48.528Z] [INFO]: Test completed: /playwright/e2e/Films_Rating/observeTop250.spec.ts

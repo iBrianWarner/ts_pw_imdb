@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12834","should provide ability to search for a movie and open movie details page","chromium","Wed May 28 12:52:30 UTC 2025","passed","Wed May 28 12:52:42 UTC 2025","IMDb search","playwright/e2e/Search/searchMovie.spec.ts","",""
+"","16596","should provide ability to observe top 250 movies","chromium","Wed May 28 12:52:30 UTC 2025","passed","Wed May 28 12:52:46 UTC 2025","IMDb catalogue","playwright/e2e/Films_Rating/observeTop250.spec.ts","",""
