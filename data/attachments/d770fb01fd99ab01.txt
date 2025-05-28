@@ -1,0 +1,2 @@
+[2025-05-28T12:54:41.508Z] [INFO]: Test started: /playwright/e2e/Search/searchMovie.spec.ts
+[2025-05-28T12:54:52.134Z] [INFO]: Test completed: /playwright/e2e/Search/searchMovie.spec.ts
